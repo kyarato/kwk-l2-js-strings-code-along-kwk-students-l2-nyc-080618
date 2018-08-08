@@ -6,3 +6,5 @@ const welcomeMessage = 'Welcome to Klossybook, Kyara!';
 const currentUser = 'Kyara';
 
 const welcomeMessage = 'Welcome to Klossybook, currentUser';
+
+"const currentUser = 'Grace Hopper';";
