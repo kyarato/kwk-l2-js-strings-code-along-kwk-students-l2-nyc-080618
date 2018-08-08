@@ -2,3 +2,7 @@
 
 const currentUser = 'Kyara';
 const welcomeMessage = 'Welcome to Klossybook, Kyara!';
+
+const currentUser = 'Kyara';
+
+const welcomeMessage = currentUser;
