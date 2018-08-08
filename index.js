@@ -5,4 +5,4 @@ const welcomeMessage = 'Welcome to Klossybook, Kyara!';
 
 const excitedWelcomeMessage = 'WELCOME TO KLOSSYBOOK, KYARA!'
 
-const short greeting
+const shortGreeting = 
