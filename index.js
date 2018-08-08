@@ -5,4 +5,4 @@ const welcomeMessage = 'Welcome to Klossybook, Kyara!';
 
 const currentUser = 'Kyara';
 
-const welcomeMessage = currentUser;
+const welcomeMessage = 'Welcome to Klossybook, currentUser';
