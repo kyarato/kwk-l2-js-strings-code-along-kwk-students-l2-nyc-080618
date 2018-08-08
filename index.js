@@ -3,4 +3,4 @@
 const currentUser = 'Kyara';
 const welcomeMessage = 'Welcome to Klossybook, Kyara!';
 
-const excitedWelcomeMessage = 'WELCOME TO KLOSSYBOOK, KYARA'
+const excitedWelcomeMessage = 'WELCOME TO KLOSSYBOOK, KYARA!'
